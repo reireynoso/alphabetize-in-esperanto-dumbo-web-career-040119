@@ -1,4 +1,6 @@
 def alphabetize(arr)
   # code here
-  puts arr
+  arr.sort_by do |word|
+    
+  end
 end
